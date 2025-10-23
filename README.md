@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like 
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+**Website Link:** [https://www.oktodev.me/](https://www.oktodev.me/)
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +35,8 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
-cd Portofolio_V5
+git clone https://github.com/xxx/xxxx.git
+cd xxxx
 ```
 
 ### 2\. Install Dependencies
@@ -237,10 +237,10 @@ We would appreciate it if you decide to use this project. Please include proper 
 
 If you have any questions or need help with the setup, feel free to reach out\!
 
-**Eki Zulfar Rachman**
+**Syawal Okta Syahputra**
 
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
+  - Website: [https://www.eki.my.id/](https://www.oktodev.me/)
+  - GitHub: [Oktodev](https://github.com/syawaloktasyahputra)
 
 -----
 
