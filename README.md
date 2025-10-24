@@ -2,7 +2,7 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Syawal Okta Syahputra**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
@@ -177,7 +177,7 @@ VALUES ('REPLACE_WITH_YOUR_CERTIFICATE_IMAGE_URL.png');
 
 -- Insert one example comment
 INSERT INTO public.portfolio_comments (content, user_name) 
-VALUES ('Created By Eki Zulfar Rachman', 'ekizr');
+VALUES ('Created By Syawal Okta Syawal', 'oktodev');
 
 ```
 
@@ -239,7 +239,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Syawal Okta Syahputra**
 
-  - Website: [https://www.eki.my.id/](https://www.oktodev.me/)
+  - Website: [https://www.oktodev.me/](https://www.oktodev.me/)
   - GitHub: [Oktodev](https://github.com/syawaloktasyahputra)
 
 -----
